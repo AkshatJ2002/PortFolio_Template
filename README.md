@@ -32,7 +32,7 @@ The portfolio template is organized into the following main sections:
 
 If you have any questions or need assistance with the template, feel free to reach out to me at:
 
-- **Email**: akshat.j1512@gmail.com.com
+- **Email**: akshat.j1512@gmail.com
 - **LinkedIn**: [Akshat Jain](www.linkedin.com/in/akshatjain1512)
 - **GitHub**: [AkshatJ2002](https://github.com/AkshatJ2002)
 
